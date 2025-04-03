@@ -1,1 +1,2 @@
 "Hello World!"
+Testing out commit in vscode terminal without -m flag
